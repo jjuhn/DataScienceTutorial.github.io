@@ -2,3 +2,5 @@ theme: jekyll-theme-minimal
 
 title: myTitle
 description: To learn jekyll-theme-minimal
+
+show_downloads: true
